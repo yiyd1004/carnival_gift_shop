@@ -1,5 +1,5 @@
 // const input = require("sync-input");
-const input = require("prompt-sync")();
+const input = require("prompt-sync")(); // To get user input in Node.js environment
 
 console.log(
     "WELCOME TO THE CARNIVAL GIFT SHOP!\n" +
